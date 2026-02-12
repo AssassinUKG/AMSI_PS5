@@ -10,6 +10,11 @@ This repository is for **educational and authorized security testing only**. Mis
 
 AMSI is a Windows security interface that allows applications and services to integrate with anti-malware products. PowerShell uses AMSI to scan scripts for malicious content before execution.
 
+## Screenshot with WinPeas
+
+<img width="853" height="456" alt="image" src="https://github.com/user-attachments/assets/6e96c5f3-451f-4e0d-a5d7-d219f76ace99" />
+
+
 ## 🎯 The Technique
 
 **Field Corruption Bypass** - Uses .NET reflection to manipulate internal PowerShell AMSI fields
