@@ -69,7 +69,7 @@ Defenders can detect these techniques by:
 
 ## 🎓 Learning Path
 
-1. Study the well-commented `bypass_field_educational.ps1` code
+1. Study the commented `bypass_field_educational.ps1` code
 2. Understand .NET reflection and how to access private fields
 3. Learn about AMSI internals and the role of each field
 4. Experiment in isolated lab environments only
